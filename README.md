@@ -2,7 +2,7 @@
 
 ---------------------
 
-<img src="https://i.loli.net/2020/08/08/irMQuBN53ZtLAIb.png" alt="shuffling_1.png" style="zoom:25%;" /> 
+![shuffling_3.png](https://i.loli.net/2020/08/08/dn1pzkP3VRvFKyM.png) 
 
 [![](https://jitpack.io/v/Edward7Zhang/ShufflingImageView.svg)](https://jitpack.io/#Edward7Zhang/ShufflingImageView)
 
