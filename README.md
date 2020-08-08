@@ -80,4 +80,4 @@ mShuffingImageView.setImagePathList(thumbList);
 
 <img src="https://i.loli.net/2020/08/08/86WxVuSyd9ja3XL.png" alt="shuffling_2.png" style="zoom:70%;" />
 
-**More information see Demo please😉**
+**More information see [Demo](https://github.com/Edward7Zhang/ShufflingImageView/blob/master/app/src/main/java/com/majortom/shufflingimageview/MainActivity.java) please😉**
