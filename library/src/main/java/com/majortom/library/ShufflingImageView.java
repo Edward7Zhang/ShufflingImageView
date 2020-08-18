@@ -1,6 +1,7 @@
 package com.majortom.library;
 
 import android.content.Context;
+import android.content.res.TypedArray;
 import android.graphics.Bitmap;
 import android.graphics.Canvas;
 import android.graphics.Rect;
@@ -62,6 +63,13 @@ public class ShufflingImageView extends View {
 
     public ShufflingImageView(Context context, AttributeSet attrs, int defStyleAttr) {
         super(context, attrs, defStyleAttr);
+
+        TypedArray typedArray = context.obtainStyledAttributes(R.styleable.ShufflingImageView);
+        int speed = typedArray.getInteger(R.styleable.ShufflingImageView_shuffling_speed, 2);
+        if (speed > 0) {
+            this.speed = speed;
+        }
+        typedArray.recycle();
     }
 
     @Override

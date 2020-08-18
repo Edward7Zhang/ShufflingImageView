@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
         mShuffingImageView1 = findViewById(R.id.shuffling_image_view1);
         mShuffingImageView2 = findViewById(R.id.shuffling_image_view2);
         mShuffingImageView3 = findViewById(R.id.shuffling_image_view3);
-        mShuffingImageView.setSpeed(1);
+//        mShuffingImageView.setSpeed(1);
         mShuffingImageView1.setSpeed(2);
         mShuffingImageView2.setSpeed(3);
         mShuffingImageView3.setSpeed(4);

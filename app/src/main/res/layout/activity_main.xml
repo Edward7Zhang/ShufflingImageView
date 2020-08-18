@@ -21,7 +21,8 @@
         <com.majortom.library.ShufflingImageView
             android:id="@+id/shuffling_image_view"
             android:layout_width="match_parent"
-            android:layout_height="match_parent" />
+            android:layout_height="match_parent"
+            app:shuffling_speed="1"/>
     </androidx.cardview.widget.CardView>
 
     <androidx.cardview.widget.CardView
