@@ -8,7 +8,7 @@
 
 ## What's this
 
-This widget can move your picture like a *Shuffling flow poster* 
+This tiny library can move your picture like a *Shuffling flow poster* 
 
 ### Feature:
 
